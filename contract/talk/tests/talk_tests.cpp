@@ -16,8 +16,8 @@ BOOST_AUTO_TEST_CASE(post) try {
 
     // Load contract
     t.create_account(N(talk));
-    t.set_code(N(talk), read_wasm("talk.wasm"));
-    t.set_abi(N(talk), read_abi("talk.abi").data());
+    t.set_code(N(talk), read_wasm("contract/talk/talk.wasm"));
+    t.set_abi(N(talk), read_abi("contract/talk/talk.abi").data());
     t.produce_block();
 
     // Create users

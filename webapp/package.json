@@ -1,6 +1,6 @@
 {
   "private": true,
-  "description": "Example Website",
+  "description": "Talk app",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
