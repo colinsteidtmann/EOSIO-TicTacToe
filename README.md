@@ -270,7 +270,7 @@ The source code for the React WebApp is at `webapp/src/index.tsx` within the IDE
 gp preview $(gp url 8000)
 ```
 It should look like:
-![talk webapp](https://github.com/colinsteidtmann/EOSIO-TicTacToe/tree/main/webapp/talk-webapp.png?raw=true)
+![talk webapp](https://github.com/colinsteidtmann/EOSIO-TicTacToe/blob/main/webapp/talk-webapp.png?raw=true)
   
 
 ## Building and running the talk contract unit test
